@@ -9,9 +9,7 @@ This project was created as part of my early front-end practice before moving in
 
 ## 🌟 Preview
 
-> Replace with your actual screenshot path once uploaded:
-
-<img src="images/tesla-demo.png" width="600" />
+<img src="public/tesla-demo.png" width="600" />
 
 ## ✨ Features
 
@@ -36,17 +34,16 @@ This project was created as part of my early front-end practice before moving in
 - GitHub Pages (Hosting)
 
 ## 📂 Folder Structure
-
+```
 tesla-customization-page/
-├── css/
-│   └── style.css
-├── js/
+├── public
+├── src/
+│   └── assets
 │   └── main.js
-├── images/
-│   └── ...car images
+│   └── style.css
 ├── index.html
 └── README.md
-
+```
 ## 🌐 Live Demo
 
 *(https://samuadda.github.io/tesla-customization-page/)*
