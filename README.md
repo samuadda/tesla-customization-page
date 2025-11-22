@@ -1,44 +1,86 @@
-# Car Customization Web App
+# 🚗 Tesla Customization Page – Tailwind + JavaScript
 
-This is a simple car customization web page built using **HTML, Tailwind CSS, and JavaScript**. Users can select car models, colors, rims, and other features to visualize their customized car in real-time.
+A simple interactive car customization page built using **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.  
+Users can switch car colors, models, rims, and instantly preview changes in real time.
 
-## Features
-- Interactive car customization
-- Real-time updates using JavaScript
-- Responsive design with Tailwind CSS
-- Clean and modern UI
-
-## Live Demo
-You can check out the live version of the project here: [GitHub Pages Link](https://samuadda.github.io/tesla-customization-page/)
-
-## Installation & Usage
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/samuadda/tesla-customization-page.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd tesla-customization-page
-   ```
-3. Open the `index.html` file in a browser:
-   ```sh
-   open index.html  # Mac
-   start index.html # Windows
-   ```
-   Or simply drag and drop `index.html` into your browser.
-
-## Technologies Used
-- **HTML5** for structure
-- **Tailwind CSS** for styling
-- **JavaScript** for interactivity
-
-## Contributing
-Feel free to contribute by submitting a pull request or opening an issue.
-
-## License
-This open-source project is available under the [MIT License](https://opensource.org/license/mit).
+This project was created as part of my early front-end practice before moving into React and SaaS apps.
 
 ---
 
+## 🌟 Preview
 
+> Replace with your actual screenshot path once uploaded:
+
+<img src="images/tesla-demo.png" width="600" />
+
+## ✨ Features
+
+-Real-time car customization
+ 
+- Color, model, and rim selection
+
+- Responsive design using Tailwind
+
+- Simple, clean UI with smooth updates
+
+- No frameworks — built with pure JS
+
+🛠️ Tech Stack
+
+## HTML5
+
+- Tailwind CSS
+
+- JavaScript (Vanilla)
+
+- GitHub Pages (Hosting)
+
+## 📂 Folder Structure
+
+tesla-customization-page/
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+│   └── ...car images
+├── index.html
+└── README.md
+
+## 🌐 Live Demo
+
+*(https://samuadda.github.io/tesla-customization-page/)*
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/samuadda/tesla-customization-page.git
+```
+
+Navigate into the folder:
+```bash
+cd tesla-customization-page
+```
+
+Open the project:
+```bash
+open index.html   # macOS
+start index.html  # Windows
+```
+Or simply drag index.html into your browser.
+
+## 💡 What This Project Shows
+
+- Early practice in responsive UI
+
+- Understanding Tailwind utilities
+
+- DOM manipulation and dynamic updates
+
+- Clean structuring of HTML/CSS/JS files
+
+## 📬 Contact
+
+Twitter(X) : [@samuadda](https://x.com/samuadda)
+
+LinkedIn: [Saddiq Musa](https://www.linkedin.com/in/saddiq-daut/)
+tesla
